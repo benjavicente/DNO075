@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Infografía Digital</title>
+</head>
+<body>
+  <h1>Entregas</h1>
+  <ul>
+  {% for entrega in entregas %}
+    <li><a href="{{ entrega.href }}">{{ entrega.text }}</a></li>
+  {% endfor %}
+  </ul>
+</body>
+</html>
