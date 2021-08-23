@@ -14,6 +14,28 @@
       --bs-font-sans-serif: 'DM Sans', sans-serif;
     }
 
+    header a {
+      text-decoration: none;
+    }
+
+    header a:hover {
+      text-decoration: underline;
+    }
+
+    header a,
+    header a:hover,
+    header a:visited {
+      color: #e2291c
+    }
+
+    header ::selection {
+      background: #ffa3a36c;
+    }
+
+    header:hover {
+      transition: all ease 0.5s;
+    }
+
     * {
       font-weight: 400;
     }
@@ -66,7 +88,7 @@
   </header>
 
   <main class="container-fluid bg-light">
-    <div class="row g-3">
+    <div class="row g-3 text-center">
       <figure class="col-12 col-sm-6">
         <img loading="lazy" src="./img/20_years_aborad_the_international_space_station.jpg" class="img-fluid"
           alt="Linea de tiempo de la estación espacial internacional" />
