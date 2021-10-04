@@ -1,0 +1,88 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="454.87845" width="454.87845"
+  xml:space="preserve" viewBox="0 0 454.87845 454.87845" y="0px" x="0px" id="Layer_1" version="1.1">
+  <style id="style2" type="text/css">
+    @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,700');
+
+    .st0 {
+      fill: #383838;
+    }
+
+    .st1 {
+      font-family: 'Roboto';
+      font-weight: 700;
+    }
+
+    .st2 {
+      font-size: 14px;
+    }
+
+    .st3 {
+      opacity: 0.5;
+    }
+
+    .st4 {
+      font-family: 'Roboto';
+      font-weight: 700;
+    }
+
+    .st5 {
+      fill: #231F20;
+      stroke: #231F20;
+      stroke-miterlimit: 10;
+    }
+
+    .st6 {
+      fill: none;
+      stroke: #000000;
+      stroke-width: 0.5;
+      stroke-linecap: square;
+      stroke-miterlimit: 1;
+    }
+
+    .st7 {
+      fill: #231F20;
+    }
+
+    .st8 {
+      font-family: 'Roboto';
+      font-weight: 300;
+    }
+
+    .st9 {
+      fill: #77787B;
+    }
+  </style>
+  <image xlink:href="mapa-p1.webp" y="-2.4868102" x="-501.38388" width="960" height="463" preserveAspectRatio="none"
+    id="image974" />
+  <g transform="translate(-501.38388,23.51319)" id="g78">
+    <g id="g56">
+      <g id="g54">
+        <path id="path48" d="m 684.7,268.9 c -1.2,-6 -7,-10.1 -13.1,-9.1" class="st6" />
+        <g id="g52">
+          <polygon id="polygon50" points="684.6,268.7 682.6,267.4 682.3,267.8 684.8,269.4 686.3,266.8 685.8,266.5 " />
+        </g>
+      </g>
+    </g>
+    <path id="path58"
+      d="m 706.4,104.5 c -1.4,0 -2.5,1.1 -2.5,2.5 0,1.4 1.1,2.5 2.5,2.5 1.4,0 2.5,-1.1 2.5,-2.5 0,-1.4 -1.2,-2.5 -2.5,-2.5"
+      class="st5" />
+    <path id="path60"
+      d="m 748.5,248.6 c -1.4,0 -2.5,1.1 -2.5,2.5 0,1.4 1.1,2.5 2.5,2.5 1.4,0 2.5,-1.1 2.5,-2.5 0,-1.4 -1.1,-2.5 -2.5,-2.5"
+      class="st5" />
+    <path id="path62"
+      d="m 577.2,346.1 c -1.4,0 -2.5,1.1 -2.5,2.5 0,1.4 1.1,2.5 2.5,2.5 1.4,0 2.5,-1.1 2.5,-2.5 0,-1.4 -1.2,-2.5 -2.5,-2.5"
+      class="st5" />
+    <path id="path64"
+      d="m 792.7,129 c -1.4,0 -2.5,1.1 -2.5,2.5 0,1.4 1.1,2.5 2.5,2.5 1.4,0 2.5,-1.1 2.5,-2.5 0,-1.4 -1.1,-2.5 -2.5,-2.5"
+      class="st5" />
+    <text id="text66" class="st7 st8 st2" transform="translate(711.7814,111.823)">Beijing</text>
+    <g id="g70">
+      <text id="text68" class="st9 st8 st2" transform="translate(902.7782,155.0259)">Tokio</text>
+    </g>
+    <text id="text72" class="st9 st8 st2" transform="translate(752.3242,135.2849)">Seúl</text>
+    <text id="text74" class="st9 st8 st2" transform="translate(516.9677,352.7959)">Bangkok</text>
+    <text id="text76" class="st7 st8 st2" transform="translate(598.9548,262.6707)">Hong Kong</text>
+  </g>
+</svg>

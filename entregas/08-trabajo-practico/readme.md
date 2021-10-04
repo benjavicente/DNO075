@@ -1,0 +1,1 @@
+# Adaptación SCMP - Protestas HH
